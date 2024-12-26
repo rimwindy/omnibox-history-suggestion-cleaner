@@ -1,14 +1,14 @@
 {
     "manifest_version": 3,
     "name": "Omnibox History Suggestion Cleaner",
-    "description": "Delete google search history to clear chrome omnibox suggestions.",
+    "description": "Delete google search history to clear Chrome omnibox suggestions.",
     "version": "1.0",
     "icons": {
-        "64": "icons/icons8-genshin-impact-64.png",
-        "128": "icons/icons8-genshin-impact-128.png"
+        "64": "img/icons8-genshin-impact-64.png",
+        "128": "img/icons8-genshin-impact-128.png"
     },
     "action": {
-        "default_icon": "icons/icons8-genshin-impact-64.png",
+        "default_icon": "img/icons8-genshin-impact-64.png",
         "default_popup": "popup.html"
     },
     "permissions": [
